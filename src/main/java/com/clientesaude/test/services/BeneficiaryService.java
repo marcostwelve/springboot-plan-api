@@ -60,6 +60,5 @@ public class BeneficiaryService {
 		entity.setDateOfBirth(obj.getDateOfBirth());			
 		entity.setInclusionDate(obj.getInclusionDate());
 		entity.setUpdateDate(obj.getUpdateDate());
-		entity.setDocuments(obj.getDocuments());
 	}
 }
